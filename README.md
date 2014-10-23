@@ -29,13 +29,12 @@ Enthought Canopy:
 enpkg ipython
 ```
 
+Alternatively, there is a Docker image available with kernels for Julia, Python, and R called `jupyter/demo`. It is ~3.5 GB though, so you'll need to be mindful of where you run it (boot2docker starts with a small disk).
+
 ### Upgrading
 
 If you have IPython notebook installed already, great! We'll need IPython 2.2+ for this tutorial session, so [upgrade in your preferred way](http://ipython.org/install.html).
 
+## Materials
 
-## TODO
-
-* [ ] Bring in [ipython-in-depth materials](https://github.com/ipython/ipython-in-depth)
-* [ ] Set up base image for tmpnb
-* [X] Add installation instructions here in the README
+The base materials for this tutorial are located in [the examples directory of the ipython/ipython repo](https://github.com/ipython/ipython/tree/master/examples).
