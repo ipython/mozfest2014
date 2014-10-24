@@ -8,9 +8,9 @@ Please install the IPython notebook ahead of time. If you have trouble, come fin
 Facilitators:
 
 * Kyle Kelley ([@rgbkrk](https://twitter.com/rgbkrk))
-* Matthias Bussonier ([@Mbusson](https://twitter.com/Mbussonn))
-* Raghuram Korukonda ([@imkraghu](https://twitter.com/imkraghu))
-
+* Matthias Bussonier ([@Mbussonn](https://twitter.com/Mbussonn))
+* Jeramia Ory ([@DrLabRatOry](https://twitter.com/DrLabRatOry))
+* Aron Ahmadia ((@ahmadia)[https://twitter.com/ahmadia])
 
 ## Installation
 
@@ -34,7 +34,3 @@ Enthought Canopy:
 ```
 enpkg ipython
 ```
-
-## Materials
-
-The base materials for this tutorial are located in [the examples directory of the ipython/ipython repo](https://github.com/ipython/ipython/tree/master/examples).
