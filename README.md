@@ -10,7 +10,7 @@ Facilitators:
 * Kyle Kelley ([@rgbkrk](https://twitter.com/rgbkrk))
 * Matthias Bussonier ([@Mbussonn](https://twitter.com/Mbussonn))
 * Jeramia Ory ([@DrLabRatOry](https://twitter.com/DrLabRatOry))
-* Aron Ahmadia ((@ahmadia)[https://twitter.com/ahmadia])
+* Aron Ahmadia ([@ahmadia](https://twitter.com/ahmadia))
 
 ## Installation
 
