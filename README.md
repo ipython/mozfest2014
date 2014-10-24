@@ -34,3 +34,17 @@ Enthought Canopy:
 ```
 enpkg ipython
 ```
+
+## Content
+
+* [Introductory notebook](http://nbviewer.ipython.org/github/ipython/ipython/blob/master/examples/Notebook/Notebook%20Basics.ipynb)
+
+### Notebooks of interest:
+
+* [Data Driven Journalism](http://nbviewer.ipython.org/github/BuzzFeedNews/presidential-language-notebooks/blob/master/2014-10-presidential-address-pronouns.ipynb)
+* [Introduction to Python with numpy](http://nbviewer.ipython.org/github/swcarpentry/bc/blob/gh-pages/novice/python/01-numpy.ipynb)
+* [Introduction to IPython Widgets](http://nbviewer.ipython.org/github/ipython/ipython/blob/master/examples/Interactive%20Widgets/Index.ipynb)
+
+
+
+
